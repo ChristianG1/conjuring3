@@ -1,0 +1,24 @@
+body {
+  background-image: url('./wallpaper.jpeg');
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.principal {
+  text-align: center;
+  background-color: #f3f3f3;
+  width: 300px;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 30px;
+  margin-top: 250px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+} 
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.b1{
+  margin-right: 10px;
+}
